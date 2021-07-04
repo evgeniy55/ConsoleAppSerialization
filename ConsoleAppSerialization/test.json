@@ -1,0 +1,633 @@
+[
+  {
+    "Id": "0",
+    "Name": "wallwithwindow",
+    "Props": []
+  },
+  {
+    "Id": "1",
+    "Name": "Project  Number",
+    "Props": [
+      {
+        "Name": "TYPE",
+        "Type": "String",
+        "Value": "IFCPROJECT"
+      },
+      {
+        "Name": "OWNERHISTORY/OwningUser/GivenName",
+        "Type": "String",
+        "Value": "demin"
+      },
+      {
+        "Name": "OWNERHISTORY/Name",
+        "Type": "String",
+        "Value": "Autodesk Revit 2017 (ENU)"
+      },
+      {
+        "Name": "OWNERHISTORY/Version",
+        "Type": "String",
+        "Value": "2017"
+      },
+      {
+        "Name": "OWNERHISTORY/ApplicationFullName",
+        "Type": "String",
+        "Value": "Autodesk Revit 2017 (ENU)"
+      },
+      {
+        "Name": "OWNERHISTORY/ApplicationIdentifier",
+        "Type": "String",
+        "Value": "Revit"
+      },
+      {
+        "Name": "OWNERHISTORY/ChangeAction",
+        "Type": "String",
+        "Value": "NOCHANGE"
+      },
+      {
+        "Name": "OWNERHISTORY/CreationDate",
+        "Type": "Time",
+        "Value": "0"
+      },
+      {
+        "Name": "IFCPROJECT/Name",
+        "Type": "String",
+        "Value": "Project  Number"
+      },
+      {
+        "Name": "IFCPROJECT/GlobalId",
+        "Type": "String",
+        "Value": "2SmCYuElbFHQwb3RrxMmw9"
+      },
+      {
+        "Name": "IFCPROJECT/LongName",
+        "Type": "String",
+        "Value": "Project Name"
+      },
+      {
+        "Name": "IFCPROJECT/Phase",
+        "Type": "String",
+        "Value": "Project  Status"
+      },
+      {
+        "Name": "IFCPROJECT/LENGTHUNIT",
+        "Type": "String",
+        "Value": "MILLI METRE"
+      },
+      {
+        "Name": "IFCPROJECT/AREAUNIT",
+        "Type": "String",
+        "Value": "SQUARE_METRE"
+      },
+      {
+        "Name": "IFCPROJECT/VOLUMEUNIT",
+        "Type": "String",
+        "Value": "CUBIC_METRE"
+      },
+      {
+        "Name": "IFCPROJECT/MASSUNIT",
+        "Type": "String",
+        "Value": "KILO GRAM"
+      },
+      {
+        "Name": "IFCPROJECT/TIMEUNIT",
+        "Type": "String",
+        "Value": "SECOND"
+      },
+      {
+        "Name": "IFCPROJECT/FREQUENCYUNIT",
+        "Type": "String",
+        "Value": "HERTZ"
+      },
+      {
+        "Name": "IFCPROJECT/THERMODYNAMICTEMPERATUREUNIT",
+        "Type": "String",
+        "Value": "DEGREE_CELSIUS"
+      },
+      {
+        "Name": "IFCPROJECT/ELECTRICCURRENTUNIT",
+        "Type": "String",
+        "Value": "AMPERE"
+      },
+      {
+        "Name": "IFCPROJECT/ELECTRICVOLTAGEUNIT",
+        "Type": "String",
+        "Value": "VOLT"
+      },
+      {
+        "Name": "IFCPROJECT/POWERUNIT",
+        "Type": "String",
+        "Value": "WATT"
+      },
+      {
+        "Name": "IFCPROJECT/FORCEUNIT",
+        "Type": "String",
+        "Value": "KILO NEWTON"
+      },
+      {
+        "Name": "IFCPROJECT/ILLUMINANCEUNIT",
+        "Type": "String",
+        "Value": "LUX"
+      },
+      {
+        "Name": "IFCPROJECT/LUMINOUSFLUXUNIT",
+        "Type": "String",
+        "Value": "LUMEN"
+      },
+      {
+        "Name": "IFCPROJECT/LUMINOUSINTENSITYUNIT",
+        "Type": "String",
+        "Value": "CANDELA"
+      },
+      {
+        "Name": "IFCPROJECT/PRESSUREUNIT",
+        "Type": "String",
+        "Value": "PASCAL"
+      }
+    ]
+  },
+  {
+    "Id": "2",
+    "Name": "Default",
+    "Props": [
+      {
+        "Name": "TYPE",
+        "Type": "String",
+        "Value": "IFCSITE"
+      },
+      {
+        "Name": "OWNERHISTORY/OwningUser/GivenName",
+        "Type": "String",
+        "Value": "demin"
+      },
+      {
+        "Name": "OWNERHISTORY/Name",
+        "Type": "String",
+        "Value": "Autodesk Revit 2017 (ENU)"
+      },
+      {
+        "Name": "OWNERHISTORY/Version",
+        "Type": "String",
+        "Value": "2017"
+      },
+      {
+        "Name": "OWNERHISTORY/ApplicationFullName",
+        "Type": "String",
+        "Value": "Autodesk Revit 2017 (ENU)"
+      },
+      {
+        "Name": "OWNERHISTORY/ApplicationIdentifier",
+        "Type": "String",
+        "Value": "Revit"
+      },
+      {
+        "Name": "OWNERHISTORY/ChangeAction",
+        "Type": "String",
+        "Value": "NOCHANGE"
+      },
+      {
+        "Name": "OWNERHISTORY/CreationDate",
+        "Type": "Time",
+        "Value": "0"
+      },
+      {
+        "Name": "IFCSITE/Name",
+        "Type": "String",
+        "Value": "Default"
+      },
+      {
+        "Name": "IFCSITE/GlobalId",
+        "Type": "String",
+        "Value": "2SmCYuElbFHQwb3RrxMmwB"
+      },
+      {
+        "Name": "IFCSITE/CompositionType",
+        "Type": "String",
+        "Value": "ELEMENT"
+      },
+      {
+        "Name": "IFCSITE/Latitude",
+        "Type": "String",
+        "Value": "42°21'31\"181945"
+      },
+      {
+        "Name": "IFCSITE/Longitude",
+        "Type": "String",
+        "Value": "-71°-3'-24\"-263305"
+      },
+      {
+        "Name": "IFCSITE/Elevation",
+        "Type": "Float",
+        "Value": "0.000000"
+      }
+    ]
+  },
+  {
+    "Id": "3",
+    "Name": "",
+    "Props": [
+      {
+        "Name": "TYPE",
+        "Type": "String",
+        "Value": "IFCBUILDING"
+      },
+      {
+        "Name": "Pset_BuildingCommon/NumberOfStoreys",
+        "Type": "Int",
+        "Value": "1"
+      },
+      {
+        "Name": "OWNERHISTORY/OwningUser/GivenName",
+        "Type": "String",
+        "Value": "demin"
+      },
+      {
+        "Name": "OWNERHISTORY/Name",
+        "Type": "String",
+        "Value": "Autodesk Revit 2017 (ENU)"
+      },
+      {
+        "Name": "OWNERHISTORY/Version",
+        "Type": "String",
+        "Value": "2017"
+      },
+      {
+        "Name": "OWNERHISTORY/ApplicationFullName",
+        "Type": "String",
+        "Value": "Autodesk Revit 2017 (ENU)"
+      },
+      {
+        "Name": "OWNERHISTORY/ApplicationIdentifier",
+        "Type": "String",
+        "Value": "Revit"
+      },
+      {
+        "Name": "OWNERHISTORY/ChangeAction",
+        "Type": "String",
+        "Value": "NOCHANGE"
+      },
+      {
+        "Name": "OWNERHISTORY/CreationDate",
+        "Type": "Time",
+        "Value": "0"
+      },
+      {
+        "Name": "IFCBUILDING/GlobalId",
+        "Type": "String",
+        "Value": "2SmCYuElbFHQwb3RrxMmw8"
+      },
+      {
+        "Name": "IFCBUILDING/CompositionType",
+        "Type": "String",
+        "Value": "ELEMENT"
+      }
+    ]
+  },
+  {
+    "Id": "4",
+    "Name": "Level 1",
+    "Props": [
+      {
+        "Name": "TYPE",
+        "Type": "String",
+        "Value": "IFCBUILDINGSTOREY"
+      },
+      {
+        "Name": "Pset_BuildingStoreyCommon/AboveGround",
+        "Type": "String",
+        "Value": "U"
+      },
+      {
+        "Name": "OWNERHISTORY/OwningUser/GivenName",
+        "Type": "String",
+        "Value": "demin"
+      },
+      {
+        "Name": "OWNERHISTORY/Name",
+        "Type": "String",
+        "Value": "Autodesk Revit 2017 (ENU)"
+      },
+      {
+        "Name": "OWNERHISTORY/Version",
+        "Type": "String",
+        "Value": "2017"
+      },
+      {
+        "Name": "OWNERHISTORY/ApplicationFullName",
+        "Type": "String",
+        "Value": "Autodesk Revit 2017 (ENU)"
+      },
+      {
+        "Name": "OWNERHISTORY/ApplicationIdentifier",
+        "Type": "String",
+        "Value": "Revit"
+      },
+      {
+        "Name": "OWNERHISTORY/ChangeAction",
+        "Type": "String",
+        "Value": "NOCHANGE"
+      },
+      {
+        "Name": "OWNERHISTORY/CreationDate",
+        "Type": "Time",
+        "Value": "0"
+      },
+      {
+        "Name": "IFCBUILDINGSTOREY/Name",
+        "Type": "String",
+        "Value": "Level 1"
+      },
+      {
+        "Name": "IFCBUILDINGSTOREY/GlobalId",
+        "Type": "String",
+        "Value": "2SmCYuElbFHQwb3Rs4fC9s"
+      },
+      {
+        "Name": "IFCBUILDINGSTOREY/CompositionType",
+        "Type": "String",
+        "Value": "ELEMENT"
+      },
+      {
+        "Name": "IFCBUILDINGSTOREY/Elevation",
+        "Type": "Float",
+        "Value": "0.000000"
+      }
+    ]
+  },
+  {
+    "Id": "5",
+    "Name": "IFCWALLSTANDARDCASE",
+    "Props": []
+  },
+  {
+    "Id": "7",
+    "Name": "Basic Wall:Generic - 200mm:249",
+    "Props": [
+      {
+        "Name": "TYPE",
+        "Type": "String",
+        "Value": "IFCWALLSTANDARDCASE"
+      },
+      {
+        "Name": "Pset_WallCommon/Reference",
+        "Type": "String",
+        "Value": "Generic - 200mm"
+      },
+      {
+        "Name": "Pset_WallCommon/LoadBearing",
+        "Type": "String",
+        "Value": "F"
+      },
+      {
+        "Name": "Pset_WallCommon/ExtendToStructure",
+        "Type": "String",
+        "Value": "F"
+      },
+      {
+        "Name": "Pset_WallCommon/IsExternal",
+        "Type": "String",
+        "Value": "T"
+      },
+      {
+        "Name": "OWNERHISTORY/OwningUser/GivenName",
+        "Type": "String",
+        "Value": "demin"
+      },
+      {
+        "Name": "OWNERHISTORY/Name",
+        "Type": "String",
+        "Value": "Autodesk Revit 2017 (ENU)"
+      },
+      {
+        "Name": "OWNERHISTORY/Version",
+        "Type": "String",
+        "Value": "2017"
+      },
+      {
+        "Name": "OWNERHISTORY/ApplicationFullName",
+        "Type": "String",
+        "Value": "Autodesk Revit 2017 (ENU)"
+      },
+      {
+        "Name": "OWNERHISTORY/ApplicationIdentifier",
+        "Type": "String",
+        "Value": "Revit"
+      },
+      {
+        "Name": "OWNERHISTORY/ChangeAction",
+        "Type": "String",
+        "Value": "NOCHANGE"
+      },
+      {
+        "Name": "OWNERHISTORY/CreationDate",
+        "Type": "Time",
+        "Value": "0"
+      },
+      {
+        "Name": "MATERIAL/Name",
+        "Type": "String",
+        "Value": "Default Wall"
+      },
+      {
+        "Name": "MATERIALLAYER/LayerThickness",
+        "Type": "Float",
+        "Value": "200.000000"
+      },
+      {
+        "Name": "MATERIALLAYERSET/LayerSetName",
+        "Type": "String",
+        "Value": "Basic Wall:Generic - 200mm"
+      },
+      {
+        "Name": "MATERIALLAYERSETUSAGE/LayerSetDirection",
+        "Type": "String",
+        "Value": ".AXIS2."
+      },
+      {
+        "Name": "MATERIALLAYERSETUSAGE/DirectionSense",
+        "Type": "String",
+        "Value": ".NEGATIVE."
+      },
+      {
+        "Name": "MATERIALLAYERSETUSAGE/OffsetFromReferenceLine",
+        "Type": "Float",
+        "Value": "100.000000"
+      },
+      {
+        "Name": "IFCWALLTYPE/Name",
+        "Type": "String",
+        "Value": "Basic Wall:Generic - 200mm"
+      },
+      {
+        "Name": "IFCWALLTYPE/GlobalId",
+        "Type": "String",
+        "Value": "2JF5JWaxWHqu3u0C1FZlpB"
+      },
+      {
+        "Name": "IFCWALLTYPE/Tag",
+        "Type": "String",
+        "Value": "249"
+      },
+      {
+        "Name": "IFCWALLTYPE/PredefinedType",
+        "Type": "String",
+        "Value": ".STANDARD."
+      },
+      {
+        "Name": "IFCWALLSTANDARDCASE/Name",
+        "Type": "String",
+        "Value": "Basic Wall:Generic - 200mm:199415"
+      },
+      {
+        "Name": "IFCWALLSTANDARDCASE/GlobalId",
+        "Type": "String",
+        "Value": "10eq_Wfwj0CPKzXVgjL6CZ"
+      },
+      {
+        "Name": "IFCWALLSTANDARDCASE/ObjectType",
+        "Type": "String",
+        "Value": "Basic Wall:Generic - 200mm:249"
+      },
+      {
+        "Name": "IFCWALLSTANDARDCASE/Tag",
+        "Type": "String",
+        "Value": "199415"
+      }
+    ]
+  },
+  {
+    "Id": "9",
+    "Name": "",
+    "Props": []
+  },
+  {
+    "Id": "6",
+    "Name": "IFCWINDOW",
+    "Props": []
+  },
+  {
+    "Id": "14",
+    "Name": "0406 x 0610mm",
+    "Props": [
+      {
+        "Name": "TYPE",
+        "Type": "String",
+        "Value": "IFCWINDOW"
+      },
+      {
+        "Name": "Pset_WindowCommon/IsExternal",
+        "Type": "String",
+        "Value": "T"
+      },
+      {
+        "Name": "Pset_WindowCommon/Reference",
+        "Type": "String",
+        "Value": "0406 x 0610mm"
+      },
+      {
+        "Name": "OWNERHISTORY/OwningUser/GivenName",
+        "Type": "String",
+        "Value": "demin"
+      },
+      {
+        "Name": "OWNERHISTORY/Name",
+        "Type": "String",
+        "Value": "Autodesk Revit 2017 (ENU)"
+      },
+      {
+        "Name": "OWNERHISTORY/Version",
+        "Type": "String",
+        "Value": "2017"
+      },
+      {
+        "Name": "OWNERHISTORY/ApplicationFullName",
+        "Type": "String",
+        "Value": "Autodesk Revit 2017 (ENU)"
+      },
+      {
+        "Name": "OWNERHISTORY/ApplicationIdentifier",
+        "Type": "String",
+        "Value": "Revit"
+      },
+      {
+        "Name": "OWNERHISTORY/ChangeAction",
+        "Type": "String",
+        "Value": "NOCHANGE"
+      },
+      {
+        "Name": "OWNERHISTORY/CreationDate",
+        "Type": "Time",
+        "Value": "0"
+      },
+      {
+        "Name": "IFCWINDOWSTYLE/Name",
+        "Type": "String",
+        "Value": "0406 x 0610mm"
+      },
+      {
+        "Name": "IFCWINDOWSTYLE/GlobalId",
+        "Type": "String",
+        "Value": "10eq_Wfwj0CPKzXU_jL69_"
+      },
+      {
+        "Name": "IFCWINDOWSTYLE/Tag",
+        "Type": "String",
+        "Value": "53700"
+      },
+      {
+        "Name": "IFCWINDOWSTYLE/ConstructionType",
+        "Type": "String",
+        "Value": ".NOTDEFINED."
+      },
+      {
+        "Name": "IFCWINDOWSTYLE/OperationType",
+        "Type": "String",
+        "Value": ".NOTDEFINED."
+      },
+      {
+        "Name": "IFCWINDOWSTYLE/ParameterTakesPrecedence",
+        "Type": "String",
+        "Value": "F"
+      },
+      {
+        "Name": "IFCWINDOWSTYLE/Sizeable",
+        "Type": "String",
+        "Value": "F"
+      },
+      {
+        "Name": "IFCWINDOW/Name",
+        "Type": "String",
+        "Value": "M_Fixed:0406 x 0610mm:199552"
+      },
+      {
+        "Name": "IFCWINDOW/GlobalId",
+        "Type": "String",
+        "Value": "10eq_Wfwj0CPKzXVgjL69K"
+      },
+      {
+        "Name": "IFCWINDOW/ObjectType",
+        "Type": "String",
+        "Value": "0406 x 0610mm"
+      },
+      {
+        "Name": "IFCWINDOW/Tag",
+        "Type": "String",
+        "Value": "199552"
+      },
+      {
+        "Name": "IFCWINDOW/OverallHeight",
+        "Type": "Float",
+        "Value": "610.000000"
+      },
+      {
+        "Name": "IFCWINDOW/OverallWidth",
+        "Type": "Float",
+        "Value": "406.000000"
+      }
+    ]
+  },
+  {
+    "Id": "16",
+    "Name": "",
+    "Props": []
+  }
+]
