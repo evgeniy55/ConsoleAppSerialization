@@ -5,21 +5,15 @@ using System.Xml.Serialization;
 
 namespace ConsoleAppSerialization
 {
-	// Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse); 
-	
-
 	public class Prop
 	{
 		[XmlAttribute]
-		//[JsonProperty("Name")]
 		public string Name { get; set; }
 
 		[XmlAttribute]
-		//[JsonProperty("Type")]
 		public string Type { get; set; }
 
 		[XmlAttribute]
-		//[JsonProperty("Value")]
 		public string Value { get; set; }
 	}
 
@@ -27,11 +21,9 @@ namespace ConsoleAppSerialization
 	public class ProductOccurence
 	{
 		[XmlAttribute]
-		//[JsonProperty("Id")]
 		public string Id { get; set; }
 
 		[XmlAttribute]
-		//[JsonProperty("Name")]
 		public string Name { get; set; }
 
 		[XmlElement]
@@ -55,7 +47,6 @@ namespace ConsoleAppSerialization
 	public class Root
 	{
 		//public string GlobalData { get; set; }
-
 		[XmlElement("ModelFile")]
 		public ModelFile ModelFiles { get; set; }
 	}
