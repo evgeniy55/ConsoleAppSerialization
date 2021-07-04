@@ -5,19 +5,19 @@ using System.Xml.Serialization;
 
 namespace ConsoleAppSerialization
 {
-	public class Prop
+	public class Root
 	{
-		[XmlAttribute]
-		public string Name { get; set; }
-
-		[XmlAttribute]
-		public string Type { get; set; }
-
-		[XmlAttribute]
-		public string Value { get; set; }
+		//public string GlobalData { get; set; }
+		[XmlElement("ModelFile")]
+		public ModelFile ModelFiles { get; set; }
 	}
 
-	[XmlRoot("ProductOccurence")]
+	public class ModelFile
+	{
+		[XmlElement("ProductOccurence")]
+		public List<ProductOccurence> ProductOccurences { get; set; }
+	}
+
 	public class ProductOccurence
 	{
 		[XmlAttribute]
@@ -38,25 +38,21 @@ namespace ConsoleAppSerialization
 		//public List<Prop> Props { get => Attributes?.Attr; }
 	}
 
+	public class Prop
+	{
+		[XmlAttribute]
+		public string Name { get; set; }
+
+		[XmlAttribute]
+		public string Type { get; set; }
+
+		[XmlAttribute]
+		public string Value { get; set; }
+	}
+
 	public class XmlAttributes
 	{
 		[XmlElement]
 		public List<Prop> Attr { get; set; }
 	}
-	
-	public class Root
-	{
-		//public string GlobalData { get; set; }
-		[XmlElement("ModelFile")]
-		public ModelFile ModelFiles { get; set; }
-	}
-
-	public class ModelFile
-	{
-		[XmlElement("ProductOccurence")]
-		public List<ProductOccurence> ProductOccurences { get; set; }
-	}
-
-
-
 }
